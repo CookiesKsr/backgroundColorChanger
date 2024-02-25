@@ -1,0 +1,1 @@
+#this project contains the functionality of changing browser color through plain javascript
